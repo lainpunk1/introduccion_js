@@ -2,7 +2,7 @@ var nombre = Esteban;
 var apellido = Peña;
 var edad = 26;
 var dev = true;
-var fecha = new Date(1996, 08, 27);
+var fecha = new Date(1996, 7, 27);
 var favbook = {
     titulo:"Pánico y locura en Las Vegas",
     autor:"Hunter S. Thompson",
